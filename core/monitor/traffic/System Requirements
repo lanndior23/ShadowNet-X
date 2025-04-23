@@ -1,0 +1,7 @@
+Category	      Requirement
+OS	          Linux (Kali/Ubuntu recommended)
+Python	       Python 3.8+
+Privileges	  Root access (for raw packet capture)
+Dependencies	tcpdump (for backup capture method)
+RAM	            512MB+ (for large captures)
+Network	      Active interface with traffic
