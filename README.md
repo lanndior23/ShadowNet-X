@@ -22,11 +22,25 @@ bash
 pip install -r requirements.txt
 See requirements.txt for full dependencies
 
+🚀 Getting Started
+Before running ShadowNet-X, set up a Python virtual environment.
+
+1. Clone the repository
+git clone https://github.com/yourusername/shadownet-x.git
+cd shadownet-x
+
+2. Create and activate a virtual environment
+Linux/macOS:
+python3 -m venv venv
+source venv/bin/activate
+
+3. Install dependencies
+pip install -r requirements.txt
+
+4. Run the tool
+python3 shadownet.py
+
 Usage 🖥️
-
-# Run with sudo (required)
-sudo python3 shadownet.py
-
 Key Controls
 Key	               Action
 ↑/↓	             Scroll packet list
