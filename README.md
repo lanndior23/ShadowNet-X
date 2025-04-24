@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/shadownet-x.git
 cd shadownet-x
 
 2. Create and activate a virtual environment
-Linux/macOS:
+Linux (Kali/Ubuntu)
 python3 -m venv venv
 source venv/bin/activate
 
