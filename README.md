@@ -26,7 +26,7 @@ See requirements.txt for full dependencies
 Before running ShadowNet-X, set up a Python virtual environment.
 
 1. Clone the repository
-git clone https://github.com/yourusername/shadownet-x.git
+git clone https://github.com/lanndior23/ShadowNet-X.git
 cd shadownet-x
 
 2. Create and activate a virtual environment
